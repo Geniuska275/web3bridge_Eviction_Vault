@@ -27,7 +27,6 @@ The contract system has been decomposed into multiple modules based on responsib
 | **Ownership.sol** | Owner management and access control |
 | **EmergencyControls.sol** | Pause mechanism and emergency withdrawals |
 | **MerkleClaims.sol** | Merkle-based claim verification logic |
-| **Timelock.sol** | Delayed execution of administrative actions |
 | **IEvictionVault.sol** | Interface definitions |
 
 This modular structure improves:
