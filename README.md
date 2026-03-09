@@ -53,3 +53,6 @@ The Merkle root controlling claim eligibility could previously be updated by **a
 ### Fix
 
 The function is now restricted to the contract owner.
+## 2. emergencyWithdrawAll
+
+
